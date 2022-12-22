@@ -42,7 +42,7 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![OUTPUT](./image/s.png)
+![OUTPUT](./image/pic.png)
 
 ## RESULT:
-program is executed successfully
+program is executed Successfully
